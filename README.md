@@ -9,7 +9,7 @@ I started studying programming when I realized I could create and iterate
 far faster by externalizing my thinking into software — instead of relying
 solely on manual processes and other people's tools.
 
-Previously, I spent 12+ years leading technology innovation projects, IP
+Previously, I spent 13+ years leading technology innovation projects, IP
 strategy, and applied research — work that trained me to break down
 complex, ambiguous problems into structured, testable systems. I'm now
 applying that same discipline to software: deterministic algorithms,
@@ -22,7 +22,7 @@ structured data modeling, and explainable AI workflows.
 - Focus areas: ETL pipelines, domain-driven design, test-driven development
 
 ## Innovation Background
-- 12+ years in technology innovation and R&D
+- 13+ years in technology innovation and R&D
 - 3 international patents <details><summary>(details)</summary>
 
   - Renewable energy
