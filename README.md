@@ -1,10 +1,3 @@
-## Bio
-
-> Python developer | data pipelines, domain modeling, LLM-assisted
-> systems
-
-## Profile README
-
 # Hi, I'm Alteredlilac 👋
 
 Python developer in career transition, building data transformation
